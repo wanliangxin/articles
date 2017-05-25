@@ -5,3 +5,5 @@
 * [李明远：现在还是不是做产品最好的时代？](https://mp.weixin.qq.com/s?__biz=MzA5ODMzMDkzOA==&mid=2661080887&idx=1&sn=4dda6d53f4ebe937e6a73be3f366d8cb)
 
 * [技术漫谈：为何KPI毁了索尼，而OKR却成就了谷歌？](http://mp.weixin.qq.com/s/QBmbTu40psN0eaRyIa9MmQ)
+
+* [服务设计：客户旅程地图](http://www.infoq.com/cn/articles/customer-journey-mapping)
