@@ -11,3 +11,7 @@
 * [Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
 
 * [技术漫谈：为何KPI毁了索尼，而OKR却成就了谷歌？](http://mp.weixin.qq.com/s/QBmbTu40psN0eaRyIa9MmQ)
+
+## 数据埋点
+
+* [Android无埋点数据收集SDK关键技术解析](http://blog.csdn.net/qq_29647881/article/details/70148992)
