@@ -1,4 +1,7 @@
 
+## 物联网
+* [Key Abstractions for IoT-Oriented Software Engineering](https://www.infoq.com/articles/iot-key-abstractions)
+
 ## 关于产品设计
 * [今日设计中的装饰_from ID公社](http://www.hi-id.com/?p=2741#more-2741)
 
@@ -17,3 +20,4 @@
 * [Android无埋点数据收集SDK关键技术解析](http://blog.csdn.net/qq_29647881/article/details/70148992)
 
 * [iOS无埋点数据SDK实践之路](http://www.jianshu.com/p/69ce01e15042)
+
