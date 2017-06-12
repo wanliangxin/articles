@@ -18,6 +18,8 @@
 * [Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
 
 * [技术漫谈：为何KPI毁了索尼，而OKR却成就了谷歌？](http://mp.weixin.qq.com/s/QBmbTu40psN0eaRyIa9MmQ)
+ 
+* [无我编程的十条戒律（同样适用于产品管理，产品设计）](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program)
 
 ## 数据埋点
 
