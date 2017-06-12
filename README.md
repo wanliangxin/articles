@@ -1,4 +1,8 @@
 
+
+## 机器学习
+* [机器学习、python和数学学习资料汇总](http://www.infoq.com/cn/news/2017/06/Machine-Python-math-aggregation)
+
 ## 物联网
 * [Key Abstractions for IoT-Oriented Software Engineering](https://www.infoq.com/articles/iot-key-abstractions)
 
