@@ -13,6 +13,8 @@
 
 * [服务设计：客户旅程地图](http://www.infoq.com/cn/articles/customer-journey-mapping)
 
+* [自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right)
+
 ## 关于产品管理
 
 * [Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
