@@ -23,6 +23,8 @@
  
 * [无我编程的十条戒律（同样适用于产品管理，产品设计）](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program)
 
+* [学会提问](http://www.catb.org/esr/faqs/smart-questions.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=ios)
+
 ## 数据埋点
 
 * [Android无埋点数据收集SDK关键技术解析](http://blog.csdn.net/qq_29647881/article/details/70148992)
