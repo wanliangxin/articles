@@ -15,6 +15,9 @@
 
 * [自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right)
 
+* [产品思维的三个阶段](http://www.mindtheproduct.com/2017/07/curious-mindset-product-manager/)
+
+
 ## 关于产品管理
 
 * [Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
