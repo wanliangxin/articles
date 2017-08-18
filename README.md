@@ -1,21 +1,5 @@
 
-
-## 机器学习
-* [机器学习、python和数学学习资料汇总](http://www.infoq.com/cn/news/2017/06/Machine-Python-math-aggregation)
-
-## 物联网
-* [Key Abstractions for IoT-Oriented Software Engineering](https://www.infoq.com/articles/iot-key-abstractions)
-
 ## 关于产品设计
-* [今日设计中的装饰_from ID公社](http://www.hi-id.com/?p=2741#more-2741)
-
-* [李明远：现在还是不是做产品最好的时代？](https://mp.weixin.qq.com/s?__biz=MzA5ODMzMDkzOA==&mid=2661080887&idx=1&sn=4dda6d53f4ebe937e6a73be3f366d8cb)
-
-* [服务设计：客户旅程地图](http://www.infoq.com/cn/articles/customer-journey-mapping)
-
-* [自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right)
-
-* [产品思维的三个阶段](http://www.mindtheproduct.com/2017/07/curious-mindset-product-manager/)
 
 * [扩展RBAC用户角色权限设计](http://www.cnblogs.com/zwq194/archive/2011/03/07/1974821.html)
 
@@ -29,6 +13,32 @@
 * [无我编程的十条戒律（同样适用于产品管理，产品设计）](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program)
 
 * [学会提问](http://www.catb.org/esr/faqs/smart-questions.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=ios)
+
+
+
+
+
+## 产品观点
+
+* [今日设计中的装饰_from ID公社](http://www.hi-id.com/?p=2741#more-2741)
+
+* [李明远：现在还是不是做产品最好的时代？](https://mp.weixin.qq.com/s?__biz=MzA5ODMzMDkzOA==&mid=2661080887&idx=1&sn=4dda6d53f4ebe937e6a73be3f366d8cb)
+
+* [服务设计：客户旅程地图](http://www.infoq.com/cn/articles/customer-journey-mapping)
+
+* [自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right)
+
+* [产品思维的三个阶段](http://www.mindtheproduct.com/2017/07/curious-mindset-product-manager/)
+
+
+## 机器学习
+
+* [机器学习、python和数学学习资料汇总](http://www.infoq.com/cn/news/2017/06/Machine-Python-math-aggregation)
+
+## 物联网
+* [Key Abstractions for IoT-Oriented Software Engineering](https://www.infoq.com/articles/iot-key-abstractions)
+
+
 
 ## 数据埋点
 
