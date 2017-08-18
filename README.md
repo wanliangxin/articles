@@ -17,6 +17,8 @@
 
 * [产品思维的三个阶段](http://www.mindtheproduct.com/2017/07/curious-mindset-product-manager/)
 
+* [扩展RBAC用户角色权限设计](http://www.cnblogs.com/zwq194/archive/2011/03/07/1974821.html)
+
 
 ## 关于产品管理
 
