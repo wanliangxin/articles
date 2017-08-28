@@ -3,6 +3,8 @@
 
 * [扩展RBAC用户角色权限设计](http://www.cnblogs.com/zwq194/archive/2011/03/07/1974821.html)
 
+* [如何创建一个购物用户画像](http://fabrikbrands.com/how-to-create-a-buyer-persona/)
+
 
 ## 关于产品管理
 
