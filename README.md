@@ -5,7 +5,7 @@
 
 * [如何创建一个购物用户画像](http://fabrikbrands.com/how-to-create-a-buyer-persona/)
 
-
+* [交互细节分析：注册登录](http://cued.xunlei.com/log029)
 ## 关于产品管理
 
 * [Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
