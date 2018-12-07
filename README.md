@@ -9,6 +9,8 @@
 
 * [美团点评沈国阳：我们在谈用户画像的时候到底在谈什么？](https://mp.weixin.qq.com/s/E9vABApEg6AGafXfXdCqvA)
 
+* [Medium年度最佳设计文章](https://zhuanlan.zhihu.com/p/24673492)
+
 ## 关于产品管理
 
 * [Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=articles_link&utm_content=link_text)
@@ -57,3 +59,4 @@
 ## 书单
 
 * [总有你要的编程书单](http://blog.didiaoyuan.com/2017/04/18/%E6%80%BB%E6%9C%89%E4%BD%A0%E8%A6%81%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B9%A6%E5%8D%95%EF%BC%88GitHub-%EF%BC%89/)
+
