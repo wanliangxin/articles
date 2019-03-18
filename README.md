@@ -1,4 +1,8 @@
 
+## 深度文章博客
+* [朱啸虎推荐超深度长文：地位即服务——重新审视社交网络](https://mp.weixin.qq.com/s/0EvRGm8bFbKwstma3oUJhg)
+   * [作者博客](https://www.eugenewei.com/)
+
 ## 关于产品设计
 
 * [扩展RBAC用户角色权限设计](http://www.cnblogs.com/zwq194/archive/2011/03/07/1974821.html)
